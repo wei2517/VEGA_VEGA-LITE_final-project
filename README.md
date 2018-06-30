@@ -32,7 +32,7 @@ For my final project, i choose *Vega*,a free,statistical, and visualized softwar
 2.Use VEGA-LITE program to change the feature that you want.
 3.Use Vega-Lite Block to embed the figure to the web.
 4.Achievement: (https://bl.ocks.org/wei2517/raw/50f0c2bbf8420009a470fb0500a5a79f/20b5436a06f5f20ebc255619d3298faffbf1e897/)
-5.Because there is no raw data for the name of the villages, I use "小畫家" to key the name on the map(.png).
-(VEGA_VEGA-LITE_final-project/West Central Dist., Tainan City..png)
+5.Because there is no raw data for the name of the villages, I use "小畫家" to key the name on the map(.png):
+![](https://github.com/wei2517/VEGA_VEGA-LITE_final-project/blob/master/West%20Central%20Dist.%2C%20Tainan%20City..png)
 
 
