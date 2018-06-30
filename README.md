@@ -51,4 +51,4 @@ png.:
 ### Under the web you can also see the link that can help you th export the figure to the type you want!
 
 ## Summary
-VEGA/VEGA-LITE can be an one of choice for you to make figures,however, you have to spend some time learning the documents. Besides, it also let us to embed our figures to the wed easily and conveniently
+VEGA/VEGA-LITE can be an one of choice for you to make figures,however, you have to spend some time learning the documents. Besides, it also let us to embed our figures to the wed easily and conveniently.
