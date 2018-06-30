@@ -48,7 +48,7 @@ For my final project, i choose *Vega* and *Vega-lite*, a free,statistical, and v
 (https://bl.ocks.org/wei2517/raw/568b3dfaa4a6b50c741ac7f4fe848afb/4c0a5dda93acfc966e4e7a770503118c04415d33/)
 (png.):
 ![](https://github.com/wei2517/VEGA_VEGA-LITE_final-project/blob/master/PPG%20signal.png)
-* Under the web you can also see the links that can help you th export the figure to the type you want!
+* Under the web you can also see the links that can help you th export the figures to the type you want!
 
 ## Summary
 VEGA/VEGA-LITE can be an one of choice for you to make figures,however, you have to spend some time learning the documents. Besides, it also let us to embed our figures to the wed easily and conveniently.
