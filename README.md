@@ -1,6 +1,6 @@
 # Vega
 
-Use [*Vega*](https://vega.github.io/vega/) to make a statistic map.
+Use [*Vega*](https://vega.github.io/vega/) to make a statistic map and plots.
 
 ## Motivation
 For my final project, i choose *Vega* and *Vega-lite*, a free,statistical, and visualized software to learn. Because of the another class, i met Yintong community, i want to make a map connected to it.  Besides, I also want o use VEGA-LITE to make some visual description for my own project in BME. Without doubt, a visualization grammar is also an useful tool  to make the unified graphics.
@@ -12,8 +12,8 @@ For my final project, i choose *Vega* and *Vega-lite*, a free,statistical, and v
 * A convenient means for writing programs that generate visualizations, ranging from interactive design tools to automatic chart recommendation tools. 
 
 ## VEGA VS VEGA-LITE?
-*VEGA: A visualization grammar, a declarative language for creating, saving, and sharing interactive visualization designs.
-*VEGA-LITE: Vega-Lite is a high-level grammar of interactive graphics. It provides a concise JSON syntax for rapidly generating visualizations to support analysis. 
+* VEGA: A visualization grammar, a declarative language for creating, saving, and sharing interactive visualization designs.
+* VEGA-LITE: Vega-Lite is a high-level grammar of interactive graphics. It provides a concise JSON syntax for rapidly generating visualizations to support analysis. 
 
 ## Example
 ### Connected Scatter Plot
