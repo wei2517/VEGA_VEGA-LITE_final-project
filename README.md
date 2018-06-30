@@ -38,10 +38,17 @@ For my final project, i choose *Vega*,a free,statistical, and visualized softwar
 ### Other plots: (There are also some introduction of the figure in the web)
 1. The correlation between the vascular age predicted from PPG signal and the real age:
 (https://bl.ocks.org/wei2517/raw/c758304baca44c53a8c988acc0919d7d/6d20759c015682d1c86aec5163f4f186aea52933/)
+*png.:*
+![](VEGA_VEGA-LITE_final-project/The correlation between the vascular age predicted from PPG signal and the real age.png)
 2. The correlation between subjects number and age:
 (https://bl.ocks.org/wei2517/raw/a618af305df39692426f1b1c5cd377f4/f980a82e1111071db4ed16cd58bcfe7a1fb5b942/)
+*png.:*
+![](VEGA_VEGA-LITE_final-project/The correlation between subjects number and age.png)
 3. PPG signal:
 (https://bl.ocks.org/wei2517/raw/568b3dfaa4a6b50c741ac7f4fe848afb/4c0a5dda93acfc966e4e7a770503118c04415d33/)
+*png.:*
+![](VEGA_VEGA-LITE_final-project/PPG signal.png)
 ### Under the web you can also see the link that can help you th export the figure to the type you want!
 
 ## Summary
+VEGA/VEGA-LITE can be an one of choice for you to make figures,however, you have to spend some time learning the documents. Besides, it also let us to embed our figures to the wed easily and conveniently
