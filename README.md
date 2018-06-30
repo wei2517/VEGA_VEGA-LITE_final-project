@@ -3,7 +3,7 @@
 Use [*Vega*](https://vega.github.io/vega/) to make a statistic map.
 
 ## Motivation
-For my final project, i choose *Vega*,a free,statistical, and visualized software to learn. The reason is that i am contacting with a plan for community redevelopment currently.Therefore,the purpose for this project is to make a statistic map for the community intergration. Besides,a visualization grammar is also an useful tool  to make the unified graphics for my research in the future.
+For my final project, i choose *Vega* and *Vega-lite*,a free,statistical, and visualized software to learn. Because of the another class, i met Yintong community, i want to make a map connected to it.  Besides, I also want o use VEGA-LITE to make some visual description. Without doubt, a visualization grammar is also an useful tool  to make the unified graphics.
 
 ## Feature
 * Data visualization.
